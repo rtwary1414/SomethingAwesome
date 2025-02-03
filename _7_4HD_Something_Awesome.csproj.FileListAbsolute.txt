@@ -1,0 +1,14 @@
+/Users/ratneshkumartiwary/Desktop/Code/7.4HD Something Awesome/bin/Debug/net8.0/_7_4HD_Something_Awesome
+/Users/ratneshkumartiwary/Desktop/Code/7.4HD Something Awesome/bin/Debug/net8.0/_7_4HD_Something_Awesome.deps.json
+/Users/ratneshkumartiwary/Desktop/Code/7.4HD Something Awesome/bin/Debug/net8.0/_7_4HD_Something_Awesome.runtimeconfig.json
+/Users/ratneshkumartiwary/Desktop/Code/7.4HD Something Awesome/bin/Debug/net8.0/_7_4HD_Something_Awesome.dll
+/Users/ratneshkumartiwary/Desktop/Code/7.4HD Something Awesome/bin/Debug/net8.0/_7_4HD_Something_Awesome.pdb
+/Users/ratneshkumartiwary/Desktop/Code/7.4HD Something Awesome/obj/Debug/net8.0/_7_4HD_Something_Awesome.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ratneshkumartiwary/Desktop/Code/7.4HD Something Awesome/obj/Debug/net8.0/_7_4HD_Something_Awesome.AssemblyInfoInputs.cache
+/Users/ratneshkumartiwary/Desktop/Code/7.4HD Something Awesome/obj/Debug/net8.0/_7_4HD_Something_Awesome.AssemblyInfo.cs
+/Users/ratneshkumartiwary/Desktop/Code/7.4HD Something Awesome/obj/Debug/net8.0/_7_4HD_Something_Awesome.csproj.CoreCompileInputs.cache
+/Users/ratneshkumartiwary/Desktop/Code/7.4HD Something Awesome/obj/Debug/net8.0/_7_4HD_Something_Awesome.dll
+/Users/ratneshkumartiwary/Desktop/Code/7.4HD Something Awesome/obj/Debug/net8.0/refint/_7_4HD_Something_Awesome.dll
+/Users/ratneshkumartiwary/Desktop/Code/7.4HD Something Awesome/obj/Debug/net8.0/_7_4HD_Something_Awesome.pdb
+/Users/ratneshkumartiwary/Desktop/Code/7.4HD Something Awesome/obj/Debug/net8.0/_7_4HD_Something_Awesome.genruntimeconfig.cache
+/Users/ratneshkumartiwary/Desktop/Code/7.4HD Something Awesome/obj/Debug/net8.0/ref/_7_4HD_Something_Awesome.dll
